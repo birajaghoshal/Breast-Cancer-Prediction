@@ -14,6 +14,21 @@ For every 2 women newly diagnosed with breast cancer, one woman dies of it in In
 
 You can install Conda for python which resolves all the dependencies for machine learning.
 
+## Finding Out Accuracy: 
+
+### Logistic Regression
+
+* The mean accuracy with 10 fold cross validation is **88.96**
+
+### Naive Bayes
+
+* The mean accuracy with 10 fold cross validation is **92.21**
+
+### Random Forest 
+
+* The accuracyon test data is **94.74**
+
+
 ## Execution : 
 To run the file
 `BreastCancer.ipynb` ` 
