@@ -5,3 +5,16 @@ For every 2 women newly diagnosed with breast cancer, one woman dies of it in In
 
 * For women diagnosed during 2010-14, five-year survival for breast cancer is now 89.5% in Australia and 90.2% in the USA, but international differences remain very wide, with levels as low as 66.1% in India.
 
+## The dataset given here is about the patients who were detected with 2 kinds of breast cancer : 
+* Malignant 
+* Benign 
+![](Diagnosis.png)
+
+## Code Requirements
+
+You can install Conda for python which resolves all the dependencies for machine learning.
+
+## Execution : 
+To run the file
+`BreastCancer.ipynb` ` 
+ 
