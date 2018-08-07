@@ -22,6 +22,10 @@ You can install Conda for python which resolves all the dependencies for machine
 ![](images/LogisticRegression.JPG)
 * The mean accuracy with 10 fold cross validation is **88.96**
 
+### kNN (k-Nearest-Neighbor)
+![](images/kNN.JPG)
+* The mean accuracy with 10 fold cross validation is **87.21**
+
 ### Naive Bayes
 
 * The mean accuracy with 10 fold cross validation is **92.21**
