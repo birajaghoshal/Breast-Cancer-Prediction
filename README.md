@@ -19,7 +19,7 @@ You can install Conda for python which resolves all the dependencies for machine
 ## Finding Out Accuracy: 
 
 ### Logistic Regression
-
+![](images/LogisticRegression.JPG)
 * The mean accuracy with 10 fold cross validation is **88.96**
 
 ### Naive Bayes
