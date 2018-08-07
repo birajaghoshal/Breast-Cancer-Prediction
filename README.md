@@ -18,7 +18,7 @@ You can install Conda for python which resolves all the dependencies for machine
 
 ## Finding Out Accuracy: 
 
-### Logistic Regression
+### :zap: Logistic Regression
 
 Logistic Regression measures the relationship between the dependent variable (our label, what we want to predict) and the one or more independent variables (our features), by estimating probabilities using it’s underlying logistic function.
 
@@ -29,7 +29,7 @@ A simple example of a Logistic Regression problem would be an algorithm used for
 
 * The mean accuracy with 10 fold cross validation is **88.96**
 
-### kNN (k-Nearest-Neighbor)
+### :house: kNN (k-Nearest-Neighbor)
 
 K represents the number of training data points lying in proximity to the test data point which we are going to use to find the class. A k-nearest-neighbor is a data classification algorithm that attempts to determine what group a data point is in by looking at the data points around it.
 
@@ -37,7 +37,7 @@ K represents the number of training data points lying in proximity to the test d
 
 * The mean accuracy with 10 fold cross validation is **87.21**
 
-### Naive Bayes
+### :zap: Naive Bayes
 
 Naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes’ theorem with strong (naive) independence assumptions between the features.
 
