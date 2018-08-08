@@ -7,10 +7,16 @@ For every 2 women newly diagnosed with breast cancer, one woman dies of it in In
 
 ![](MalignantVsBenign.jpg)
 
+
+
 ## The dataset given here is about the patients who were detected with 2 kinds of breast cancer : 
 * Malignant 
 * Benign 
 ![](Diagnosis.png)
+
+* Pairplot with comparison between **diagnosis** and **radius_mean** as well as **texture_mean**
+
+![](images/Pairplot.png)
 
 ## Code Requirements
 
