@@ -51,11 +51,15 @@ K represents the number of training data points lying in proximity to the test d
 
 Naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes’ theorem with strong (naive) independence assumptions between the features.
 
+![](images/naiveBayes.png)
+
 * The mean accuracy with 10 fold cross validation is **92.21**
 
 ### :evergreen_tree: Random Forest 
 
 Random Forest is a supervised learning algorithm. Like you can already see from it is name, it creates a forest and makes it somehow random. The forest it builds, is an ensemble of Decision Trees, most of the time trained with the “bagging” method. The general idea of the bagging method is that a combination of learning models increases the overall result.
+
+![](images/randomForest.png)
 
 * The accuracyon test data is **94.74**
 
