@@ -14,9 +14,13 @@ For every 2 women newly diagnosed with breast cancer, one woman dies of it in In
 * Benign 
 ![](Diagnosis.png)
 
-* Pairplot with comparison between **diagnosis** and **radius_mean** as well as **texture_mean**
+### Pairplot with comparison between _diagnosis_ and _radius_mean_ as well as _texture_mean_
 
 ![](images/Pairplot.png)
+
+### Classification Report
+
+![](images/classificationReport.png)
 
 ## Code Requirements
 
