@@ -61,7 +61,7 @@ Random Forest is a supervised learning algorithm. Like you can already see from 
 
 ![](images/randomForest.png)
 
-* The accuracyon test data is **94.74**
+* The accuracy on test data is **94.74**
 
 
 ## Execution : 
