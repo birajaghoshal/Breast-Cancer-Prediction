@@ -1,4 +1,4 @@
-# Breast-Cancer-Classification
+# Breast-Cancer-Prediction
 
 * Breast cancer is now the most common cancer in Indian women, having recently overtaken cervical cancer in this respect.
 For every 2 women newly diagnosed with breast cancer, one woman dies of it in India.
